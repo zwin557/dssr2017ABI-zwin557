@@ -1,2 +1,2 @@
 **Here I am!**
-(www.google.co.nz)
+[Google](www.google.co.nz)
