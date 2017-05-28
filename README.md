@@ -1,9 +1,10 @@
 **Synopsis**
-
-At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+To develop a computational model which can simulate the response of human lungs to **invasive mechanical ventilation** in hospitals. This project will lead a clinical software which can help clinicians decide the optimal management for mechanically ventilated patients.
 
 **Code Example**
-
+''
+Paw = RQ + V/C - Ppl
+''
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 Motivation
 
