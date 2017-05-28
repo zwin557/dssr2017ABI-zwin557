@@ -4,9 +4,10 @@ To develop a computational model which can simulate the response of human lungs 
 **Code Example**
 
 ```
-Paw = RawQaw + V/C - Ppl
-```
+**Paw = RawQaw + V/C - Ppl**
+
 where subscript aw represents airway, P is the pressure, R is the resistance, Q is the airflow, V is the alveolar volume, C is the alveolar compliance and Ppl is the pleural pressure.
+```
 
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 Motivation
