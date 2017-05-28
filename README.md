@@ -3,8 +3,8 @@ To develop a computational model which can simulate the response of human lungs 
 
 **Code Example**
 
-```
-**Paw = RawQaw + V/C - Ppl**
+```ruby
+Paw = RawQaw + V/C - Ppl
 
 where subscript aw represents airway, P is the pressure, R is the resistance, Q is the airflow, V is the alveolar volume, C is the alveolar compliance and Ppl is the pleural pressure.
 ```
