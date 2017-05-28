@@ -1,16 +1,15 @@
 **Synopsis**
-To develop a computational model which can simulate the response of human lungs to **invasive mechanical ventilation** in hospitals. This project will lead a clinical software which can help clinicians decide the optimal management for mechanically ventilated patients.
+To develop a computational model which can simulate the response of human lungs to **invasive mechanical ventilation** in hospitals. This project will lead to development of clinical software which can help clinicians decide the optimal management for mechanically ventilated patients.
 
 **Code Example**
 
 ```ruby
 Paw = RawQaw + V/C - Ppl
-
-where subscript aw represents airway, P is the pressure, R is the resistance, Q is the airflow, V is the alveolar volume, C is the alveolar compliance and Ppl is the pleural pressure.
+where subscript aw represents airway, P is the pressure from the mechanical ventilation machine, R is the resistance, Q is the airflow, V is the alveolar volume, C is the alveolar compliance and Ppl is the pleural pressure.
 ```
+The left-hand side of equation and Qaw from right-hand side of equation are inputs to the model from the machine. The rest of the right-hand side equations will be optimised.
 
-Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-Motivation
+**Motivation**
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
