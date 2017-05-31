@@ -27,3 +27,6 @@
     1.  Read literatures and learn the physiological processess and computaional model.
     2.  Submit the progress back to supervisor and get feedback.
     3.  Collaborate with other students.
+
+**FlowChart Link**
+[link](https://github.com/zwin557/dssr2017ABI-zwin557/blob/master/Zay_FlowChart.png)
