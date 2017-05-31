@@ -1,17 +1,14 @@
 **_Vision_**
-1.  To develop a computational model for human lungs
-2.  To simulate the human lungs of patients who are mechanically ventilated.
-3.  To validate the model with the clinical data.
+1.  To validate the model with the clinical data.
 
 **_Mission_**
-1.  Learn physiological functions of human lungs.
-2.  Learn mathematical equations of tissue mechanics.
-3.  Obtain clinical data from The University of Canterbury.
-4.  Test with the model and validate.
+1.  Obtain clinical data from the University of Canterbury.
+2.  Process the clinical data to be used in the model.
+3.  Use the processed data as an input to the model.
+4.  Test with the model and validate by optimising parameters.
 
 **_Success Criteria_**
-1.  The computational model gives physiological values after simulation.
-2.  The model output matches with patient's clinical data.
+1.  The model output matches with patient's clinical data.
 
 **_Team Agreement_**
 1.  Update the progress weekly.
